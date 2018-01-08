@@ -294,7 +294,7 @@ h3 {
 ==================================================*/
 
 .team-member {
-    margin: 0 15px;
+    margin: 0 80px;
 }
 
 .team-member-info {
@@ -542,6 +542,10 @@ footer {
 #contact-left p {
     color: #fff;
     margin-bottom: 30px;
+}
+
+#contact-right p {
+    color: #fff;
 }
 
 #contact-info {

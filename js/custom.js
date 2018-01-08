@@ -22,8 +22,8 @@ $(function () {
 ===================================================*/
 $(function () {
     $("#team-members").owlCarousel({
-        items: 3,
-        autoplay: true,
+        items: 2,
+        autoplay: false,
         smartSpeed: 700,
         loop: true,
         autoplayHoverPause: true,
@@ -38,7 +38,7 @@ $(function () {
             },
             // breakpoint from 768 up
             768: {
-                items: 3
+                items: 2
             }
         }
     });
